@@ -1,8 +1,8 @@
-# 秋果 · qiuguo
+# 秋果 · Qiuguo
 
 面向个人秋招流程的投递清单工具：汇总各公司官方招聘系统中的**正式校招**岗位，按个人履历相关方向整理为可检索、可筛选、可标记的清单网站。
 
-**线上 Demo：** [https://ebony-refuge-bv2r.here.now/](https://ebony-refuge-bv2r.here.now/)
+**线上Demo：** [https://ebony-refuge-bv2r.here.now/](https://ebony-refuge-bv2r.here.now/)
 
 <p align="center">
   <img src="docs/qiuguo-logo.png" alt="秋果 logo" width="96" />
